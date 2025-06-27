@@ -4,6 +4,8 @@ metadata:
   name: create-react-app-template
   title: Create React App Template
   description: Create a new CRA website project
+  annotations:
+    argocd/app-name: test
   tags:
     - react
     - cra
